@@ -8,8 +8,8 @@ body {
 
 
   font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: 40px;
-  font-weight: <weight>;
+  font-size: 40px;
+  font-weight: 400;
   font-style: normal;
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray;
